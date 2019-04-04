@@ -16,9 +16,8 @@
 title: Mumblings and musings
 email: mumblings.me@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I've started this site as a means to get some of my writings out, in a time of pain, a time of need.
-  I hope sharing those even if it is to an audience of noone will help me cope, help me get through those hardships.
-  And maybe give someone somewhere a smile or make them cry...
+  I've build this site to share a few words I needed to, without any specific audience in mind...<br/>
+  Feel free to share your thoughts on twitter or by mail!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mumblings.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mumblings10
@@ -26,6 +25,8 @@ github_username: mumblings-me
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
 theme: minima
 plugins:
   - jekyll-feed
