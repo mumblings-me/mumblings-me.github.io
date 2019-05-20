@@ -16,7 +16,7 @@
 title: Mumblings and musings
 email: mumblings.me@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I've build this site to share a few words I needed to, without any specific audience in mind...<br/>
+  I've build this site to share a few words I needed to, without any specific audience in mind...
   Feel free to share your thoughts on twitter or by mail!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mumblings.me" # the base hostname & protocol for your site, e.g. http://example.com
